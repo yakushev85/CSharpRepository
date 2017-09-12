@@ -1,3 +1,3 @@
 # CSharpRepository
 
-Repository contains CSharp desktop application.
+Repository contains CSharp desktop applications.
